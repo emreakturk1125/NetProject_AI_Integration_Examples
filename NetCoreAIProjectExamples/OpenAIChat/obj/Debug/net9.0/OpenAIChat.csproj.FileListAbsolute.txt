@@ -26,3 +26,4 @@ C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCore
 C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenAIChat\obj\Debug\net9.0\OpenAIChat.pdb
 C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenAIChat\obj\Debug\net9.0\OpenAIChat.genruntimeconfig.cache
 C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenAIChat\obj\Debug\net9.0\ref\OpenAIChat.dll
+C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenAIChat\obj\Debug\net9.0\OpenAIChat.sourcelink.json

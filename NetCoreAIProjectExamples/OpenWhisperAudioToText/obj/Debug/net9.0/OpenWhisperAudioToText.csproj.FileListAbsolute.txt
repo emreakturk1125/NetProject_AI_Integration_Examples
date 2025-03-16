@@ -1,0 +1,15 @@
+C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenWhisperAudioToText\obj\Debug\net9.0\OpenWhisperAudioToText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenWhisperAudioToText\obj\Debug\net9.0\OpenWhisperAudioToText.AssemblyInfoInputs.cache
+C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenWhisperAudioToText\obj\Debug\net9.0\OpenWhisperAudioToText.AssemblyInfo.cs
+C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenWhisperAudioToText\obj\Debug\net9.0\OpenWhisperAudioToText.csproj.CoreCompileInputs.cache
+C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenWhisperAudioToText\obj\Debug\net9.0\OpenWhisperAudioToText.sourcelink.json
+C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenWhisperAudioToText\bin\Debug\net9.0\OpenWhisperAudioToText.exe
+C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenWhisperAudioToText\bin\Debug\net9.0\OpenWhisperAudioToText.deps.json
+C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenWhisperAudioToText\bin\Debug\net9.0\OpenWhisperAudioToText.runtimeconfig.json
+C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenWhisperAudioToText\bin\Debug\net9.0\OpenWhisperAudioToText.dll
+C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenWhisperAudioToText\bin\Debug\net9.0\OpenWhisperAudioToText.pdb
+C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenWhisperAudioToText\obj\Debug\net9.0\OpenWhisperAudioToText.dll
+C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenWhisperAudioToText\obj\Debug\net9.0\refint\OpenWhisperAudioToText.dll
+C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenWhisperAudioToText\obj\Debug\net9.0\OpenWhisperAudioToText.pdb
+C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenWhisperAudioToText\obj\Debug\net9.0\OpenWhisperAudioToText.genruntimeconfig.cache
+C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenWhisperAudioToText\obj\Debug\net9.0\ref\OpenWhisperAudioToText.dll

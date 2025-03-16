@@ -5,12 +5,7 @@ internal class Program
 {
     private static async Task Main(string[] args)
     {
-        var apiKey = "API KEY HERE";
-        if (string.IsNullOrEmpty(apiKey))
-        {
-            Console.WriteLine("API key is missing. Please set the OPENAI_API_KEY environment variable.");
-            return;
-        }
+        var apiKey = string.Empty; // OPEN AI API KEY   
 
         Console.WriteLine("Lütfen Sorunuzu Yazınız:");
         var prompt = Console.ReadLine();
