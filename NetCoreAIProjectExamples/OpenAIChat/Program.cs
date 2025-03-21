@@ -3,9 +3,12 @@ using System.Text.Json;
 
 internal class Program
 {
+    /// <summary>
+    ///  Sohbet için OpenAI API'sini kullanır.
+    /// </summary>
     private static async Task Main(string[] args)
     {
-        var apiKey = string.Empty; // OPEN AI API KEY' ini giriniz 
+        var apiKey = string.Empty; // OPEN AI API KEY' ini giriniz
 
         Console.WriteLine("Lütfen Sorunuzu Yazınız:");
         var prompt = Console.ReadLine();

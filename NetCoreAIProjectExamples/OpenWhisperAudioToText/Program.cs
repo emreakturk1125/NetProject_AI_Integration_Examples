@@ -2,10 +2,13 @@
 
 internal class Program
 {
+    /// <summary>
+    /// Ses dosyasını text'e çevirir.
+    /// </summary>
     private static async Task Main(string[] args)
     {
-        var apiKey = string.Empty;   // OPEN AI API KEY
-        var audioFilePath = string.Empty; // SES DOSYASI YOLU
+        var apiKey = string.Empty;   // OPEN AI API KEY giriniz
+        var audioFilePath = string.Empty; // SES DOSYASI YOLU giriniz
 
         using (var client = new HttpClient())
         {

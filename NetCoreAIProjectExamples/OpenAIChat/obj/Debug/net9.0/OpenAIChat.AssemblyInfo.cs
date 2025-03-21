@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpenAIChat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1927c43e134092a6f86caddaf5a5dca912ef4cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcbf74ca1ea156a99f303e76a2cdc5e8191665d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpenAIChat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpenAIChat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

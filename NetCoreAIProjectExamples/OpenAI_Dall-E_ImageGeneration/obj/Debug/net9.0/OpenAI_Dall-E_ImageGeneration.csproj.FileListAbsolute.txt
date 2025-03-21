@@ -1,0 +1,15 @@
+C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenAI_Dall-E_ImageGeneration\bin\Debug\net9.0\OpenAI_Dall-E_ImageGeneration.exe
+C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenAI_Dall-E_ImageGeneration\bin\Debug\net9.0\OpenAI_Dall-E_ImageGeneration.deps.json
+C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenAI_Dall-E_ImageGeneration\bin\Debug\net9.0\OpenAI_Dall-E_ImageGeneration.runtimeconfig.json
+C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenAI_Dall-E_ImageGeneration\bin\Debug\net9.0\OpenAI_Dall-E_ImageGeneration.dll
+C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenAI_Dall-E_ImageGeneration\bin\Debug\net9.0\OpenAI_Dall-E_ImageGeneration.pdb
+C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenAI_Dall-E_ImageGeneration\obj\Debug\net9.0\OpenAI_Dall-E_ImageGeneration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenAI_Dall-E_ImageGeneration\obj\Debug\net9.0\OpenAI_Dall-E_ImageGeneration.AssemblyInfoInputs.cache
+C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenAI_Dall-E_ImageGeneration\obj\Debug\net9.0\OpenAI_Dall-E_ImageGeneration.AssemblyInfo.cs
+C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenAI_Dall-E_ImageGeneration\obj\Debug\net9.0\OpenAI_Dall-E_ImageGeneration.csproj.CoreCompileInputs.cache
+C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenAI_Dall-E_ImageGeneration\obj\Debug\net9.0\OpenAI_Dall-E_ImageGeneration.sourcelink.json
+C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenAI_Dall-E_ImageGeneration\obj\Debug\net9.0\OpenAI_Dall-E_ImageGeneration.dll
+C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenAI_Dall-E_ImageGeneration\obj\Debug\net9.0\refint\OpenAI_Dall-E_ImageGeneration.dll
+C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenAI_Dall-E_ImageGeneration\obj\Debug\net9.0\OpenAI_Dall-E_ImageGeneration.pdb
+C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenAI_Dall-E_ImageGeneration\obj\Debug\net9.0\OpenAI_Dall-E_ImageGeneration.genruntimeconfig.cache
+C:\Users\emre.akturk\Documents\GitHub\NetProject_AI_Integration_Examples\NetCoreAIProjectExamples\OpenAI_Dall-E_ImageGeneration\obj\Debug\net9.0\ref\OpenAI_Dall-E_ImageGeneration.dll
