@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hqPDHRNiXn0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emre.akturk\\Documents\\GitHub\\NetProject_AI_Integration_Examples\\NetCoreAIProjectExamples\\TextToSpeech\\TextToSpeech.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emre.akturk\\.nuget\\packages\\system.speech\\9.0.3\\system.speech.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

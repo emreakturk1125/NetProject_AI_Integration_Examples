@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpenAI_Dall-E_ImageGeneration")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b87fccf5ed565ca5ab8bdc7a8aa9fc4596503d99")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28bb3b59a0c954542d2d3acecf006b7353f463f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpenAI_Dall-E_ImageGeneration")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpenAI_Dall-E_ImageGeneration")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

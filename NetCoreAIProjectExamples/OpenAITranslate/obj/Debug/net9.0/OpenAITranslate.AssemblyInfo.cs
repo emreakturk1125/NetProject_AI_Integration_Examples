@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpenAITranslate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+931390f74649f6bda4083aaa25fdf18b755f6c90")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28bb3b59a0c954542d2d3acecf006b7353f463f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpenAITranslate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpenAITranslate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
