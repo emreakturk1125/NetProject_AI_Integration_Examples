@@ -3,6 +3,7 @@
 class Program
 {
     /// <summary>
+    /// System.Speech.Synthesis kütüphanesi kullanılarak metni seslendiren uygulama
     /// Girilen text'i seslendiren uygulama, Erkek/Kadın sesi seçimi ve dil ses seçenekleri mevcuttur
     /// </summary> 
     static void Main(string[] args)

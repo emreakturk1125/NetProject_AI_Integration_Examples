@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GoogleCloudVision")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28bb3b59a0c954542d2d3acecf006b7353f463f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6020c679e9c2abd5f9c71bc8533d9e6818126e61")]
 [assembly: System.Reflection.AssemblyProductAttribute("GoogleCloudVision")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GoogleCloudVision")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
