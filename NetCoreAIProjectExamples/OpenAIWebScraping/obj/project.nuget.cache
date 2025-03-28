@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o2ZuJrV1xHk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emre.akturk\\Documents\\GitHub\\NetProject_AI_Integration_Examples\\NetCoreAIProjectExamples\\OpenAIWebScraping\\OpenAIWebScraping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emre.akturk\\.nuget\\packages\\htmlagilitypack\\1.12.0\\htmlagilitypack.1.12.0.nupkg.sha512",
+    "C:\\Users\\emre.akturk\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
