@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentimentAIApp", "Sentiment
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenAIWebScraping", "OpenAIWebScraping\OpenAIWebScraping.csproj", "{399A0F9D-099D-4C65-8759-7BC2E29BEF1B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenAIPdfAnalizing", "OpenAIPdfAnalizing\OpenAIPdfAnalizing.csproj", "{7675D7A1-4835-42CD-8791-2B1BA3C797FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenAINewsSummarizeWithRss", "OpenAINewsSummarizeWithRss\OpenAINewsSummarizeWithRss.csproj", "{EF6EC269-92C6-4EAF-B3E6-8B010B426B9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{399A0F9D-099D-4C65-8759-7BC2E29BEF1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{399A0F9D-099D-4C65-8759-7BC2E29BEF1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{399A0F9D-099D-4C65-8759-7BC2E29BEF1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7675D7A1-4835-42CD-8791-2B1BA3C797FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7675D7A1-4835-42CD-8791-2B1BA3C797FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7675D7A1-4835-42CD-8791-2B1BA3C797FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7675D7A1-4835-42CD-8791-2B1BA3C797FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF6EC269-92C6-4EAF-B3E6-8B010B426B9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF6EC269-92C6-4EAF-B3E6-8B010B426B9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF6EC269-92C6-4EAF-B3E6-8B010B426B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF6EC269-92C6-4EAF-B3E6-8B010B426B9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
